@@ -1,7 +1,7 @@
 # E-Commerce Website  
 E-Commerce Website streamlines the online shopping experience for both customers and business owners. Built with **HTML5, CSS3, JavaScript**, and **Font Awesome icons**, it offers features such as product listings, cart management, secure checkout, and order tracking. With a responsive, intuitive interface, it’s ideal for small to medium-sized businesses looking to establish an online presence.
 
-![E-Commerce Website](static/img/E-Commerce.png)
+![E-Commerce Website](img/E-Commerce.png)
 
 
 ### Copyright Notice:
